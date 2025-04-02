@@ -82,5 +82,5 @@ http://localhost:8080/swagger-ui.html
 
 📌 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-📧 Email: ricardorbmf@gmail.com
-🔗 GitHub: MacedoFilho
+📧 Email: ricardomacedodev@gmail.com
+🔗 GitHub: MaccedoFilho
